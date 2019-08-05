@@ -1,1 +1,1 @@
-CRIME ANALYSIS and PREDICTION 
+The objective of our project is the analysis of crimes occurred over the years 2001-2019 in Chicago and a prediction of future crimes based on that data. Also we will reach to a conclusion that whether the Chicago police dept. is doing a good job or not. We have used Machine Learning using Python and the method we have undertaken is Logistic Regression- so that we can easily classify and predict certain values. 
